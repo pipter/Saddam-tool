@@ -1,7 +1,12 @@
 # 使用說明
 snmp漏洞主機掃瞄
 
-./snmpscan 開始ip 結束ip 儲存檔案名稱 一次查詢數量 10
+下載腳本
+
+wget https://raw.githubusercontent.com/wartw98/test/master/snmpscan
+
+使用腳本
+./snmpscan 開始ip 結束ip 儲存檔案名稱 數值(建議10~100之間) 10
 
 攻擊腳本下載
 
